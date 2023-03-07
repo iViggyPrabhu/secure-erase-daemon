@@ -1,3 +1,5 @@
 This program works with Android recovery
 over virtio and triggers secure erase of
 partition range via blk IOCTLs. 
+
+
